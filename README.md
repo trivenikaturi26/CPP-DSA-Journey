@@ -1,2 +1,19 @@
+
 # CPP-DSA-Journey
-My journey of learning Data Structures and Algorithms in C++. This repository contains C++ implementations of Arrays, Linked Lists, Stacks, Queues, and Trees.
+
+Welcome to my Data Structures and Algorithms learning journey in C++.
+
+## Topics Covered
+- Arrays
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+
+## Learning Goals
+- Improve problem-solving skills
+- Master core DSA concepts
+- Build efficient algorithms
+
+## Language
+- C++
